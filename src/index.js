@@ -6,14 +6,14 @@ import * as serviceWorker from "./serviceWorker";
 import * as firebase from "firebase";
 import "firebase/firestore";
 
-const firebaseConfig = {
-  apiKey: "AIzaSyB6d0CUm2gXlfCyWFgxZVBSRg429t4GnWI",
-  authDomain: "cn-cart.firebaseapp.com",
-  databaseURL: "https://cn-cart.firebaseio.com",
-  projectId: "cn-cart",
-  storageBucket: "cn-cart.appspot.com",
-  messagingSenderId: "95054153619",
-  appId: "1:95054153619:web:95f71a613377982fb8ca66"
+var firebaseConfig = {
+  apiKey: "AIzaSyD3g2C5-5ZS5YUMwaXBvtW0QUSQHt5JQcA",
+  authDomain: "cart-e8905.firebaseapp.com",
+  databaseURL: "https://cart-e8905.firebaseio.com",
+  projectId: "cart-e8905",
+  storageBucket: "cart-e8905.appspot.com",
+  messagingSenderId: "25404795461",
+  appId: "1:25404795461:web:78fc435b673d24e357912c"
 };
 // Initialize Firebase
 firebase.initializeApp(firebaseConfig);
