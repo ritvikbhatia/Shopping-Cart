@@ -1,4 +1,4 @@
-A simple shopping cart Application .
+A simple shopping cart Application with react .
 
 ## Available Scripts
 
